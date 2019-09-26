@@ -1,0 +1,14 @@
+Package: IntroBioTools
+Type: Package
+Title: Tools for Intro Bio at URI
+Version: 0.1.0
+Author: person("Rachel", "Schwartz", email = "rsschwartz@uri.edu",
+                  role = c("aut", "cre"))
+Description: Includes funtion to simulate populations (of snails)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports:
+    dplyr,
+    ggplot2
+RoxygenNote: 6.1.1

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1569353969171.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2124818738",
+    "id" : "DFD3916F",
+    "lastKnownWriteTime" : 1569525405,
+    "last_content_update" : 1569525405195,
+    "path" : "~/Desktop/URI/teaching/IntroBioTools/R/generate_new_snails.R",
+    "project_path" : "R/generate_new_snails.R",
+    "properties" : {
+        "cursorPosition" : "55,0",
+        "scrollLine" : "31",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
