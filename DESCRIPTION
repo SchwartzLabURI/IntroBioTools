@@ -10,5 +10,6 @@ Encoding: UTF-8
 LazyData: true
 Imports:
     dplyr,
-    ggplot2
+    ggplot2,
+    magrittr
 RoxygenNote: 6.1.1
