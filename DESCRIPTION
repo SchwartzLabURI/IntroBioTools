@@ -8,8 +8,7 @@ Description: Includes funtion to simulate populations (of snails)
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
-Imports:
+Depends:
     dplyr,
-    ggplot2,
     magrittr
 RoxygenNote: 6.1.1
